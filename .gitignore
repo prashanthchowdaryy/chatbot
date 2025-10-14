@@ -1,0 +1,5 @@
+# Ignore the folder with all the backend code packages
+/backend/node_modules
+
+# Ignore any file with secret keys
+.env
